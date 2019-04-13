@@ -112,6 +112,19 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.addMarker(new MarkerOptions().position(new LatLng(40.940370, 140.437408)).title("大沢内"));
         mMap.addMarker(new MarkerOptions().position(new LatLng(40.951240, 140.441167)).title("深郷田"));
         mMap.addMarker(new MarkerOptions().position(new LatLng(40.964904, 140.440950)).title("津軽中里"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.802332, 140.387834)).title("木造"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.787315, 140.364303)).title("中田"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.781715, 140.338652)).title("陸奥森田"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.787265, 140.298511)).title("越水"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.782147, 140.267458)).title("鳴沢"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.775280, 140.220592)).title("鰺ヶ沢"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.761407, 140.161941)).title("陸奥赤石"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.740826, 140.123975)).title("陸奥柳田"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.746000, 140.095118)).title("北金ヶ沢"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.767891, 140.054702)).title("千畳敷"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.759316, 140.033588)).title("大戸瀬"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.732257, 139.994649)).title("風合瀬"));
+        mMap.addMarker(new MarkerOptions().position(new LatLng(40.707297, 139.983203)).title("驫木"));
 
 
         //追加情報付きマーカー
